@@ -1,6 +1,6 @@
 Unity 2D RPG Game
 
-This project provides a minimal yet expandable setup for developing a 2D action RPG game built with Unity.
+This project provides a minimal yet expandable setup for developing a 2D action RPG game built with Unity 6.0 version 6000.0.55f1
 It is designed for learning, experimentation, and prototyping RPG systems with scalable architecture.
 
 Currently, the project includes core gameplay systems such as:
